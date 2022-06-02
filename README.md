@@ -2,33 +2,40 @@
 ## Project: API Deployment Salmon_cookies
 ## Author: Michelle Salazar
 
+---
 ### PORT - Port Number
 see env
 
-## Links and Resources
+---
+### Links and Resources
 
+---
 ### Deployed URL
 [SalmonCookies](https://cookie-stand-api-ms.herokuapp.com/)
 
 ### Github
 [gh](https://github.com/MISalz/cookie-stand-api)
 
+---
 ## Setup
 --.sample.env
 required .env samples
 
-## DATABASE_URL - URL to the running Postgres instance/db
+---
+## DATABASE_URL -
+URL to the running Postgres instance/db
 
 Elephantsql
 DB_URL = postgres://vcnggiji:Dw-4hOqLmu8SJvgMlooKFzC7xbHsnKqW@heffalump.db.elephantsql.com/vcnggiji
 
-How to initialize/run your application (where applicable)
+---
+**How to initialize/run your application** (where applicable)
 ~ docker compose up
 
-How to use your library (where applicable)
+**How to use your library** (where applicable)
 pip freeze > requirements.txt
 
-
+---
 ### Tests
 How do you run tests?
 Any tests of note?
@@ -36,9 +43,9 @@ Describe any tests that you did not complete, skipped, etc
 
 ---
 
-Problem Domain:
+## Problem Domain:
 
-## Customization Steps
+### Customization Steps
 
 - DO NOT migrate yet
 - add additional dependencies as needed
