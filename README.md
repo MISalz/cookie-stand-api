@@ -1,7 +1,42 @@
-Lab 34 - Salmon Cookies
-# api-quick-start
+# Lab 34 - Salmon Cookies
+## Project: API Deployment Salmon_cookies
+## Author: Michelle Salazar
 
-Template Project for starting up CRUD API with Django Rest Framework
+### PORT - Port Number
+see env
+
+## Links and Resources
+
+### Deployed URL
+[SalmonCookies](https://cookie-stand-api-ms.herokuapp.com/)
+
+### Github
+[gh](https://github.com/MISalz/cookie-stand-api)
+
+## Setup
+--.sample.env
+required .env samples
+
+## DATABASE_URL - URL to the running Postgres instance/db
+
+Elephantsql
+DB_URL = postgres://vcnggiji:Dw-4hOqLmu8SJvgMlooKFzC7xbHsnKqW@heffalump.db.elephantsql.com/vcnggiji
+
+How to initialize/run your application (where applicable)
+~ docker compose up
+
+How to use your library (where applicable)
+pip freeze > requirements.txt
+
+
+### Tests
+How do you run tests?
+Any tests of note?
+Describe any tests that you did not complete, skipped, etc
+
+---
+
+Problem Domain:
 
 ## Customization Steps
 
