@@ -65,3 +65,6 @@ Describe any tests that you did not complete, skipped, etc
 - Rename `project/.env.sample` to `.env` and update as needed
 - Run makemigrations and migrate commands
 - Optional: Update `api_tester.py`
+
+
+
