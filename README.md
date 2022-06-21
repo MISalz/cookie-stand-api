@@ -23,7 +23,6 @@ required .env samples
 
 ---
 ## DATABASE_URL -
-URL to the running Postgres instance/db
 
 Elephantsql
 DB_URL = postgres://vcnggiji:Dw-4hOqLmu8SJvgMlooKFzC7xbHsnKqW@heffalump.db.elephantsql.com/vcnggiji
@@ -65,6 +64,3 @@ Describe any tests that you did not complete, skipped, etc
 - Rename `project/.env.sample` to `.env` and update as needed
 - Run makemigrations and migrate commands
 - Optional: Update `api_tester.py`
-
-
-
